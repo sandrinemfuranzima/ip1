@@ -11,7 +11,7 @@ This is a test portfolio describing me as a person. It's main objective is to sh
 ## Technologies Used
 I have used HTML and CSS to code this website.
 
-link to live site on GitHub Pages
-
-## copyright and license information
+## link to live site on GitHub Pages:
+* https://sandrinemfuranzima.github.io/ip1/
+## copyright and license information:
 Copyright (c) {2021} MIT License
